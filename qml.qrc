@@ -1,0 +1,165 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/asset/icons8-lock-96.png</file>
+        <file>ui/asset/icons8-search-30.png</file>
+        <file>ui/asset/icons8-unlock-144.png</file>
+        <file>ui/asset/user-removebg-preview.png</file>
+        <file>ui/asset/AdobeStock_600472466_Preview-removebg-preview.png</file>
+        <file>ui/bottomBar/Tempereture.qml</file>
+        <file>ui/asset/updownIcon.png</file>
+        <file>ui/asset/magnifying-glass.png</file>
+        <file>ui/asset/routeIIcon.png</file>
+        <file>ui/asset/zoom-in.png</file>
+        <file>ui/bottomBar/PassengersTemperature.qml</file>
+        <file>ui/bottomBar/MusicVolume.qml</file>
+        <file>ui/asset/Bootstrap-Bootstrap-Bootstrap-repeat.512.png</file>
+        <file>ui/asset/pngwing.com (1).png</file>
+        <file>ui/asset/pngwing.com (2).png</file>
+        <file>ui/asset/pngwing.com (3).png</file>
+        <file>ui/asset/pngwing.com (4).png</file>
+        <file>ui/asset/pngwing.com (5).png</file>
+        <file>ui/asset/pngwing.com (6).png</file>
+        <file>ui/asset/pngwing.com (7).png</file>
+        <file>ui/asset/pngwing.com (11).png</file>
+        <file>ui/asset/repeat-1_1.png</file>
+        <file>ui/asset/vlm00-removebg-preview.png</file>
+        <file>ui/asset/vlm2-removebg-preview.png</file>
+        <file>ui/asset/vlm3-removebg-preview.png</file>
+        <file>ui/asset/vlmoooo-removebg-preview.png</file>
+        <file>ui/asset/volume0.png</file>
+        <file>ui/asset/volume3.png</file>
+        <file>ui/asset/dvd-152917_1280.png</file>
+        <file>ui/bottomBar/BottomBar.qml</file>
+        <file>ui/rightScreen/AudioPlayer.qml</file>
+        <file>ui/rightScreen/Autopilot.qml</file>
+        <file>ui/rightScreen/Bluetooth.qml</file>
+        <file>ui/rightScreen/CarControl.qml</file>
+        <file>ui/rightScreen/Contact.qml</file>
+        <file>ui/rightScreen/Lock.qml</file>
+        <file>ui/rightScreen/MainCarUnit.qml</file>
+        <file>ui/rightScreen/MainScreen.qml</file>
+        <file>ui/rightScreen/MapRouter.qml</file>
+        <file>ui/rightScreen/Navigate.qml</file>
+        <file>ui/rightScreen/NavigationSearchBox.qml</file>
+        <file>ui/rightScreen/Safety.qml</file>
+        <file>ui/rightScreen/Software.qml</file>
+        <file>ui/rightScreen/StackViewPage.qml</file>
+        <file>ui/leftScreen/LeftScrren.qml</file>
+        <file>ui/leftScreen/ControlUnit.qml</file>
+        <file>ui/leftScreen/DriveImage.qml</file>
+        <file>ui/leftScreen/NightImage.qml</file>
+        <file>ui/leftScreen/ParkImage.qml</file>
+        <file>ui/leftScreen/ReverseImage.qml</file>
+        <file>ui/leftScreen/SideBar.qml</file>
+        <file>ui/leftScreen/TempControl.qml</file>
+        <file>ui/rightScreen/ReviseCamera.qml</file>
+        <file>ui/rightScreen/RightScreen.qml</file>
+        <file>ui/rightScreen/Emty.qml</file>
+        <file>ui/bottomBar/DriversFan.qml</file>
+        <file>ui/bottomBar/PassengersFan.qml</file>
+        <file>ui/bottomBar/StandByMode.qml</file>
+        <file>ui/rightScreen/MapDisplay.qml</file>
+        <file>music/Prinx_Emmanuel_-_Oh_Mon_me_Oh_my_soul_bless_the_eternal_God__CeeNaija.com_.mp3</file>
+        <file>music/Prinx_Emmanuel_-_Oh_The_Day_CeeNaija.com_.mp3</file>
+        <file>music/Prinx_Emmanuel_-_Pariwo_CeeNaija.com_.mp3</file>
+        <file>music/Prinx_Emmanuel_-_Sapacom_CeeNaija.com_.mp3</file>
+        <file>music/Prinx_Emmanuel_-_Who_Goes_That_Man_CeeNaija.com_.mp3</file>
+        <file>music/Prinx-Emmanuel-feat-Pastor-Iren-Emmanuel-Bo-ta-joor-(CeeNaija.com).mp3</file>
+        <file>music/Tim_Godfrey_-_Shine_Ft_Prinx_Emmanuel_CeeNaija.com_.mp3</file>
+        <file>music/images/prince-Emmanuel2.png</file>
+        <file>music/images/prince-Emmanuel4.png</file>
+        <file>music/images/prince-Emmanuel6.png</file>
+        <file>music/images/prince-Emmanuel7.png</file>
+        <file>music/images/prine-Emmanuel5.png</file>
+        <file>music/images/Prinx_Emmanuel3.png</file>
+        <file>music/images/prinx-emmanuel1.png</file>
+        <file>ui/asset/musicIcon.png</file>
+        <file>music/Moses_Bliss_-_Daddy_Wey_Dey_Pamper_Gbedu_Version__CeeNaija.com_.mp3</file>
+        <file>ui/leftScreen/asset/airbag.png</file>
+        <file>ui/leftScreen/asset/bolt (1).png</file>
+        <file>ui/leftScreen/asset/bolt.png</file>
+        <file>ui/leftScreen/asset/Brake.png</file>
+        <file>ui/leftScreen/asset/cameraIcon-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/car (1).png</file>
+        <file>ui/leftScreen/asset/car (2).png</file>
+        <file>ui/leftScreen/asset/fan (2).png</file>
+        <file>ui/leftScreen/asset/front2.png</file>
+        <file>ui/leftScreen/asset/frontlamp.png</file>
+        <file>ui/leftScreen/asset/headlamp-removebg-preview (1).png</file>
+        <file>ui/leftScreen/asset/headlamp-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/left-arrow (1).png</file>
+        <file>ui/leftScreen/asset/left-arrow (2).png</file>
+        <file>ui/leftScreen/asset/left-arrow.png</file>
+        <file>ui/leftScreen/asset/microphone.png</file>
+        <file>ui/leftScreen/asset/open-padlock-silhouette.png</file>
+        <file>ui/leftScreen/asset/padlock.png</file>
+        <file>ui/leftScreen/asset/parkinglight.png</file>
+        <file>ui/leftScreen/asset/park-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/part.png</file>
+        <file>ui/leftScreen/asset/right-arrow (1).png</file>
+        <file>ui/leftScreen/asset/right-arrow (2).png</file>
+        <file>ui/leftScreen/asset/right-arrow.png</file>
+        <file>ui/leftScreen/asset/share (1).png</file>
+        <file>ui/leftScreen/asset/share.png</file>
+        <file>ui/leftScreen/asset/sitBelt1-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/sitbelt2-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/tesla6-removebg-preview (1).png</file>
+        <file>ui/leftScreen/asset/teslap.png</file>
+        <file>ui/leftScreen/asset/tire-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/trafigator-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/x.png</file>
+        <file>ui/leftScreen/asset/abs-removebg-preview.png</file>
+        <file>ui/leftScreen/asset/tesla4.png</file>
+        <file>ui/leftScreen/asset/tesla5.png</file>
+        <file>ui/asset/menu.png</file>
+        <file>ui/asset/electric-car.png</file>
+        <file>ui/asset/camera (2).png</file>
+        <file>ui/leftScreen/asset/steering-wheel.png</file>
+        <file>ui/asset/headsets-1971383_1280.jpg</file>
+        <file>ui/asset/forward.png</file>
+        <file>ui/rightScreen/asset/clear.png</file>
+        <file>ui/rightScreen/asset/compass.png</file>
+        <file>ui/rightScreen/asset/download.png</file>
+        <file>ui/rightScreen/asset/high-beam.png</file>
+        <file>ui/rightScreen/asset/lamp (1).png</file>
+        <file>ui/rightScreen/asset/pngwing.com (1).png</file>
+        <file>ui/rightScreen/asset/protection (1).png</file>
+        <file>ui/rightScreen/asset/protection.png</file>
+        <file>ui/rightScreen/asset/repair-tool.png</file>
+        <file>ui/rightScreen/asset/side-mirror.png</file>
+        <file>ui/rightScreen/asset/signal.png</file>
+        <file>ui/rightScreen/asset/steering-wheel.png</file>
+        <file>ui/rightScreen/asset/tesla1-removebg-preview (1).png</file>
+        <file>ui/rightScreen/asset/tesla1-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/tesla7.png</file>
+        <file>ui/rightScreen/asset/touch-control.png</file>
+        <file>ui/rightScreen/asset/traveler-with-a-suitcase.png</file>
+        <file>ui/rightScreen/asset/up-and-down-arrow-icon-9-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/vlm00-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/vlm2-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/vlm3-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/vlmoooo-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/window.png</file>
+        <file>ui/rightScreen/asset/bluetooth.png</file>
+        <file>ui/rightScreen/asset/lamp-removebg-preview.png</file>
+        <file>ui/rightScreen/asset/child.png</file>
+        <file>ui/rightScreen/asset/glovebox.png</file>
+        <file>ui/rightScreen/asset/car.png</file>
+        <file>ui/rightScreen/asset/camera (1).png</file>
+        <file>ui/rightScreen/asset/record.png</file>
+        <file>ui/rightScreen/asset/brightness.png</file>
+        <file>ui/rightScreen/asset/icons8-search-30.png</file>
+        <file>ui/rightScreen/asset/phone.png</file>
+        <file>ui/rightScreen/asset/—Pngtree—user avatar login interface abstract_6796241.png</file>
+        <file>ui/rightScreen/asset/forward.png</file>
+        <file>ui/rightScreen/asset/car-wash.png</file>
+        <file>ui/rightScreen/asset/lock.png</file>
+        <file>ui/rightScreen/asset/sun.png</file>
+        <file>ui/rightScreen/asset/display-frame.png</file>
+        <file>ui/rightScreen/asset/bell.png</file>
+        <file>ui/rightScreen/asset/x.png</file>
+        <file>ui/rightScreen/asset/tesla.png</file>
+        <file>ui/rightScreen/asset/home.png</file>
+    </qresource>
+</RCC>
