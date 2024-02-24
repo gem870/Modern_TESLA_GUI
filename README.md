@@ -1,2 +1,2 @@
 # Modern_TESLA_GUI
-sophisticated vehicle monitoring application using the Qt framework, showcasing a modern and sleek user interface inspired by Tesla's design principles. The project demonstrates proficiency in Qt/C++.
+Vehicle monitoring application using the Qt framework, showcasing a modern and sleek user interface inspired by Tesla's design principles. The project demonstrates proficiency in Qt/C++ and implementation of signals and slots.
